@@ -1,0 +1,12 @@
+{
+  "name": "node-hello-world",
+  "version": "1.0.0",
+  "description": "My first node hello world website",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {},
+  "author": "周锦博",
+  "license": "MIT"
+}
